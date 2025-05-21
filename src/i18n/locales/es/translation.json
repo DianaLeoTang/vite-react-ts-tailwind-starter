@@ -8,5 +8,6 @@
   "linters": "Linters para todo el código al guardar",
   "linters-desc": "Construido con eslint, prettier, stylelint, commitlint",
   "hero-title": "Construye aplicaciones con la mejor experiencia de desarrollo que amamos",
-  "get-started": "Empezar"
+  "get-started": "Empezar",
+  "this-is-medmentorx": "Este es MedMentorX"
 }

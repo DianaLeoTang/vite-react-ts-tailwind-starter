@@ -8,5 +8,6 @@
   "linters": "Linten aller Codes beim Speichern",
   "linters-desc": "Erstellt mit Eslint, Prettier, Stylelint, Commitlint",
   "hero-title": "Apps mit der besten DX, die wir lieben, entwickeln",
-  "get-started": "Loslegen"
+  "get-started": "Loslegen",
+  "this-is-medmentorx": "Dies ist MedMentorX"
 }

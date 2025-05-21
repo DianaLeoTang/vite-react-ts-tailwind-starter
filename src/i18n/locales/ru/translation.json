@@ -8,5 +8,6 @@
   "linters": "Проверка кода при сохранении",
   "linters-desc": "Построен с использованием eslint, prettier, stylelint, commitlint",
   "hero-title": "Создание приложений с лучшим DX, которую мы любим",
-  "get-started": "Начать"
+  "get-started": "Начать",
+  "this-is-medmentorx": "Это MedMentorX"
 }

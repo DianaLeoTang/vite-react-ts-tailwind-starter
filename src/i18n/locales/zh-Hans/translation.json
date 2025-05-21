@@ -8,5 +8,6 @@
   "linters": "保存时检查所有代码",
   "linters-desc": "使用 eslint、prettier、stylelint、commitlint 构建",
   "hero-title": "使用我们喜爱的最佳开发体验构建应用",
-  "get-started": "开始"
+  "get-started": "开始",
+  "this-is-medmentorx": "这是MedMentorX"
 }

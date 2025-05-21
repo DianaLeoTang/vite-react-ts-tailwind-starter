@@ -8,5 +8,6 @@
   "linters": "저장 시 모든 코드를 린트합니다",
   "linters-desc": "eslint, prettier, stylelint, commitlint로 구축되었습니다",
   "hero-title": "우리가 사랑하는 최고의 DX로 앱을 개발하세요",
-  "get-started": "시작하기"
+  "get-started": "시작하기",
+  "this-is-medmentorx": "이것은 MedMentorX입니다"
 }
